@@ -1,0 +1,19 @@
+{
+  "name": "cn5006-2627-(t1)-web-and-mobile-application-development-(oc)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0",
+    "mongodb": "^7.7.0",
+    "mongoose": "^9.10.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
